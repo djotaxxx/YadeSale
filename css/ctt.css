@@ -1,0 +1,47 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0px;
+}
+p{
+    color: #6a6a6a;
+    font-size: 16px;
+   
+}
+h1{
+    color: #0b0707;
+    font-size: 36px;
+    text-align: center;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 14px; 
+    color:#282828;
+    font-weight: 300;
+}
+input, textarea, .btn {
+    border-radius: 15px !important;
+}
+textarea{
+    height: 150px;
+}
+
+
+.btn {
+    color: #370a6d;
+    background-color: white;
+    border: none;
+}
+.btn-edit{
+    background-color: #0053e2;
+    color: white;
+    font-weight: 100;
+    border-radius: 15px;
+}
+
+.btn:hover{
+       color: white;
+    background-color:#370a6d;
+}
+  
